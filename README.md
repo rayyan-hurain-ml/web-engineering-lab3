@@ -2,12 +2,6 @@
 
 A responsive, accessible office-hours page built for **Web Engineering – Lab 04: The Cascade, Flexbox and Grid, and the JavaScript DOM** at Sir Syed CASE Institute of Technology, Islamabad. It extends the `web-engineering-lab` project from Labs 1 and 2 using only HTML, modern CSS and vanilla JavaScript – no frameworks and no build step.
 
-| | |
-|---|---|
-| **Author** | Rayyan Hurain |
-| **Roll number** | 0108 |
-| **Course** | Web Engineering |
-| **Lab** | 04 |
 
 ## Preview
 
@@ -126,4 +120,4 @@ The page uses recent CSS features (`@layer`, `oklch()`, `color-mix()`, `light-da
 
 ## Acknowledgements
 
-Concepts and syntax were studied from [MDN Web Docs](https://developer.mozilla.org/) and the [Lighthouse documentation](https://developer.chrome.com/docs/lighthouse/overview). Course material: Web Engineering Lab 04 statement, Sir Syed CASE Institute of Technology, Islamabad.
+Concepts and syntax were studied from [MDN Web Docs](https://developer.mozilla.org/) and the [Lighthouse documentation](https://developer.chrome.com/docs/lighthouse/overview). Course material: Web Engineering Lab 04 statement.
