@@ -20,24 +20,40 @@ It extends the `web-engineering-lab` project from Labs 1 and 2 – no frameworks
 
 ## Preview
 
+## Preview
+
 <table>
   <tr>
     <td align="center"><b>Light mode</b></td>
     <td align="center"><b>Dark mode</b></td>
   </tr>
   <tr>
-    <td><img src="docs/screenshots/page_light.png" alt="Page in light mode" width="460"></td>
-    <td><img src="docs/screenshots/page_dark.png" alt="Page in dark mode" width="460"></td>
+    <td><img src="https://github.com/user-attachments/assets/ad2301f6-bab9-487d-b461-a5ff6359000d" alt="Page in light mode" width="450"></td>
+    <td><img src="https://github.com/user-attachments/assets/e3339169-aaeb-41da-97b8-332538f53f70" alt="Page in dark mode" width="450"></td>
   </tr>
   <tr>
     <td align="center"><b>Phone (390 px)</b></td>
     <td align="center"><b>Booking a slot</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/screenshots/page_mobile.png" alt="Page on a phone" width="220"></td>
-    <td><img src="docs/screenshots/booked_light.png" alt="A booked slot with status message" width="460"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/f1c1d4d0-900b-47cc-948c-2237aa521fc1" alt="Page on a phone" width="220"></td>
+    <td><img src="https://github.com/user-attachments/assets/4291dcc5-3b64-4bec-b0e7-1f78d541e79d" alt="A booked slot with status message" width="450"></td>
   </tr>
 </table>
+
+### Lighthouse accessibility
+
+<table>
+  <tr>
+    <td align="center"><b>Light mode – 100</b></td>
+    <td align="center"><b>Dark mode – 100</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5bf1f142-9751-4aa4-89eb-ce70a43197be" alt="Lighthouse accessibility score in light mode" width="450"></td>
+    <td><img src="https://github.com/user-attachments/assets/ddf58dca-1acd-43ad-93bb-9d7dab007e4c" alt="Lighthouse accessibility score in dark mode" width="450"></td>
+  </tr>
+</table>
+
 
 > **Note:** the images load from the `docs/screenshots/` folder, so keep that folder next to this file.
 
